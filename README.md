@@ -10,3 +10,11 @@ The Repo of useful tools.
 
 ***
 [markdown官网](https://markdown.com.cn)
+
+***
+[图片文字提取1](https://web.baimiaoapp.com)
+
+[图片文字提取2](https://catocr.com/#)
+
+***
+[数据专家](https://chat.shusi.cn)
