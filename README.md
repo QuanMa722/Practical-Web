@@ -17,4 +17,4 @@ The Repo of useful tools.
 [图片文字提取2](https://catocr.com/#)
 
 ***
-[数据专家](https://chat.shusi.cn)
+[数思](https://chat.shusi.cn)
