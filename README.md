@@ -14,5 +14,6 @@
 | ChatGPT    | 大模型   | [ChatGPT](https://chat18.aichatos8.com) |
 | kimi       | 大模型   | [kimi](https://kimi.moonshot.cn/)       |
 | Excalidraw | 流程图绘制 | [Excalidraw](https://excalidraw.com)    |
+| PixFix     | 图片降噪   | [PixFix](https://zh.pixfix.com/)      |
 
 ***
