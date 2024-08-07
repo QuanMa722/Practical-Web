@@ -15,5 +15,6 @@
 | kimi       | 大模型   | [kimi](https://kimi.moonshot.cn/)       |
 | Excalidraw | 流程图绘制 | [Excalidraw](https://excalidraw.com)    |
 | PixFix     | 图片降噪   | [PixFix](https://zh.pixfix.com/)      |
+| 谷歌学术镜像 | 文献引用 | [谷歌学术镜像](http://xs.3822808.com/)  |
 
 ***
