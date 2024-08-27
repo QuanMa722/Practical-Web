@@ -18,4 +18,5 @@
 | PixFix     | 图片降噪   | [PixFix](https://zh.pixfix.com/)      |
 | 谷歌学术镜像 | 文献引用 | [谷歌学术镜像](http://xs.3822808.com/)  |
 |  在线工具   | 实用小工具  | [在线工具](https://www.lddgo.net/index)  |
+| 短视频资源网 | 获取短视频相关数据 | [短视频资源网](https://www.dy114.com/douyin) |
 ***
