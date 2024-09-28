@@ -13,7 +13,6 @@
 | 扣子         | 模型广场  | [扣子](https://www.coze.cn)               |
 | ChatGPT    | 大模型   | [ChatGPT](https://chat18.aichatos8.com) |
 | ChatGPT4   | 大模型   | [ChatGPT4](https://cat.chatavx.com/#/home) |
-| kimi       | 大模型   | [kimi](https://kimi.moonshot.cn/)       |
 | Excalidraw | 流程图绘制 | [Excalidraw](https://excalidraw.com)    |
 | PixFix     | 图片降噪   | [PixFix](https://zh.pixfix.com/)      |
 | 谷歌学术镜像 | 文献引用 | [谷歌学术镜像](http://xs.3822808.com/)  |
