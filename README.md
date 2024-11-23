@@ -2,20 +2,20 @@
 # 一些好用的网站！
 ***
 
-| 名字         | 用处    | 链接                                      |
-|------------|-------|-----------------------------------------|
-| 菜鸟工具       | 各种工具  | [菜鸟工具](https://www.jyshare.com)         |
-| CDKM       | 合并图片  | [图片合并](https://cdkm.com)                |
-| markdown官网 | 教程    | [markdown官网](https://markdown.com.cn)   |
-| 白猫         | 文字识别  | [白猫](https://web.baimiaoapp.com)        |
-| 易飞         | 文字识别  | [易飞](https://catocr.com/#)              |
-| 数思         | 数据分析  | [数思](https://chat.shusi.cn)             |
-| 扣子         | 模型广场  | [扣子](https://www.coze.cn)               |
-| ChatGPT    | 大模型   | [ChatGPT](https://chat18.aichatos8.com) |
-| ChatGPT4   | 大模型   | [ChatGPT4](https://cat.chatavx.com/#/home) |
-| Excalidraw | 流程图绘制 | [Excalidraw](https://excalidraw.com)    |
-| PixFix     | 图片降噪   | [PixFix](https://zh.pixfix.com/)      |
-| 谷歌学术镜像 | 文献引用 | [谷歌学术镜像](http://xs.3822808.com/)  |
-|  在线工具   | 实用小工具  | [在线工具](https://www.lddgo.net/index)  |
-| 短视频资源网 | 获取短视频相关数据 | [短视频资源网](https://www.dy114.com/douyin) |
+| 链接                                         | 用处        |
+|--------------------------------------------|-----------|
+| [菜鸟工具](https://www.jyshare.com)            | 各种工具      |
+| [图片合并](https://cdkm.com)                   | 合并图片      |
+| [markdown官网](https://markdown.com.cn)      | 教程        |
+| [白猫](https://web.baimiaoapp.com)           | 文字识别      |
+| [易飞](https://catocr.com/#)                 | 文字识别      |
+| [数思](https://chat.shusi.cn)                | 数据分析      |
+| [扣子](https://www.coze.cn)                  | 模型广场      |
+| [ChatGPT](https://chat18.aichatos8.com)    | 大模型       |
+| [ChatGPT4](https://cat.chatavx.com/#/home) | 大模型       |
+| [Excalidraw](https://excalidraw.com)       | 流程图绘制     |
+| [PixFix](https://zh.pixfix.com/)           | 图片降噪      |
+| [谷歌学术镜像](http://xs.3822808.com/)           | 文献引用      |
+| [在线工具](https://www.lddgo.net/index)        | 实用小工具     |
+| [短视频资源网](https://www.dy114.com/douyin)     | 获取短视频相关数据 |
 ***
