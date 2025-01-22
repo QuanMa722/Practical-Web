@@ -11,7 +11,6 @@
 | [易飞](https://catocr.com/#)                 | 文字识别      |
 | [数思](https://chat.shusi.cn)                | 数据分析      |
 | [扣子](https://www.coze.cn)                  | 模型广场      |
-| [ChatGPT](https://chat18.aichatos8.com)    | 大模型       |
 | [ChatGPT4](https://cat.chatavx.com/#/home) | 大模型       |
 | [Excalidraw](https://excalidraw.com)       | 流程图绘制     |
 | [PixFix](https://zh.pixfix.com/)           | 图片降噪      |
